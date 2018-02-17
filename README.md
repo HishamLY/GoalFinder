@@ -1,4 +1,4 @@
-# GoalFinder
-Tutorial Checkpost
+## GoalFinder Dago Hoogeschool
+### Riset Tahun 2017
 
-# by DaHo
+Tutorial Checkpost for implementing new method to detect the goalpost in KRI 2017 using Hough Line Transform
